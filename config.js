@@ -74,4 +74,4 @@ const Data = {
         };
         reader.readAsText(file);
     }
-};v
+};
